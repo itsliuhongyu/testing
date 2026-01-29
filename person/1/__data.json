@@ -1,0 +1,1 @@
+{"type":"data","nodes":[null,{"type":"data","data":[{"person":1},{"id":2,"name":3,"age":4,"email":5,"phone":6,"occupation":7,"city":8,"country":9,"bio":10},1,"Emma Thompson",32,"emma.thompson@email.com","+1 (555) 123-4567","Software Engineer","San Francisco","USA","Passionate about building scalable web applications and mentoring junior developers."],"uses":{"params":["id"]}}]}
