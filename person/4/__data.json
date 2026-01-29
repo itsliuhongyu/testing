@@ -1,1 +1,0 @@
-{"type":"data","nodes":[null,{"type":"data","data":[{"person":1},{"id":2,"name":3,"age":4,"email":5,"phone":6,"occupation":7,"city":8,"country":9,"bio":10},4,"Liam O'Brien",41,"liam.obrien@email.com","+353 85 123 4567","Project Manager","Dublin","Ireland","Experienced in leading cross-functional teams and delivering complex software projects."],"uses":{"params":["id"]}}]}
