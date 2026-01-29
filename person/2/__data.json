@@ -1,0 +1,1 @@
+{"type":"data","nodes":[null,{"type":"data","data":[{"person":1},{"id":2,"name":3,"age":4,"email":5,"phone":6,"occupation":7,"city":8,"country":9,"bio":10},2,"James Chen",28,"james.chen@email.com","+1 (555) 234-5678","UX Designer","New York","USA","Creative designer focused on user-centered design principles and accessibility."],"uses":{"params":["id"]}}]}
